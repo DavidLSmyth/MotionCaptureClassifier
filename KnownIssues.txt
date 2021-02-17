@@ -1,0 +1,2 @@
+
+Classification requires around 7.6Gb of GPU memory, this can cause problems if GPU is already being used for other tasks.
